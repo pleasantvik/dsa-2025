@@ -29,7 +29,7 @@
 
 - the problem solving pattern use
 - a test case
-- Description of the challenge
+- Description of the challenge.
 
 ## Pattern cover
 
